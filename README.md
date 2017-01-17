@@ -10,3 +10,14 @@ terdaftar di array, yakni `undefined`.
 
 Demonstrasi kedua adalah mencoba mengeluarkan data untuk variable 
 `multiArray`.
+
+### boolean.js
+
+Dalam file ini didefinisikan satu variable bernama `isActive` yang 
+berisi data default yakni `true`. Tipe data untuk variable 
+`isActive` menjadi boolean.
+
+### breakContinue.js
+
+File ini berisikan operasi looping menggunakan `while` yang 
+mendemonstrasikan kegunaan dari `break` dan `continue`.
