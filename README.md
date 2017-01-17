@@ -126,4 +126,31 @@ Lulus".
 
 ### integers.js
 
+File ini berisikan pengunaan tipe data Integer dan jenis-jenisnya.
 
+### json.js
+
+File ini berisikan demonstrasi JSON (JavaScript Object Notation).
+
+### nested.js
+
+File ini berisikan demonstrasi _nested function_. fungsi 
+`tambahkan()` hanya bisa dieksekusi di dalam _scope_ fungsi 
+`induk()` karena didefinisikan di dalam.
+
+### readline.js
+
+File ini berisikan demonstrasi penggunaan _module_ `readline`.
+
+### switch.js
+
+File ini berisikan demonstrasi penggunaan kondisi `switch`.
+
+### throw.js
+
+File ini berisikan demonstrasi penggunaan `try-catch`. Jika terjadi 
+error pada block `try`, maka akan ditangkap oleh `catch`.
+
+### while.js
+
+File ini berisikan demonstrasi untuk penggunaan _looping_ `while`.
