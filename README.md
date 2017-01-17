@@ -82,5 +82,48 @@ angka dan notasi e- (_Negative Exponent_).
 
 ### forIn.js
 
-File ini mendemonstrasikan penggunaan `for-in`. _Object_ `data` 
-berisikan 
+File ini mendemonstrasikan penggunaan `for-in`. Masing-masing 
+atribut dalam _Object_ `data` akan dimunculkan beserta _key_-nya.
+
+### for.js
+
+File ini berisikan penggunaan looping `for`. Iterasi akan 
+dijalankan sebanyak 9 kali, dan nilai `i` akan berubah dari dari 
+asalnya 0 menjadi 9 pada iterasi terakhir.
+
+### fungsiAnonim.js
+
+File ini berisikan demonstrasi penggunaan _anonymous function_ yang 
+di _assign_ ke variable `pangkat`. Fungsi ini memiliki 1 argumen 
+dan menghasilkan nilai pangkat 2 dari inputan argumennya.
+
+### fungsiRekursif.js
+
+File ini berisikan demonstrasi fungsi rekursif. Fungsi rekursif 
+adalah fungsi yang didalamnya memanggil fungsi itu sendiri.
+
+Didemonstrasikan didalamnya penggunaan rekursif untuk operasi 
+faktorial, sehingga jika dipanggil `factorial(6)`, akan 
+menghasilkan nilai 720.
+
+### if.js
+
+File ini mendemonstrasikan pengkondisian menggunakan `if`.
+
+Kondisi pertama dan kedua masing-masing bernilai `false` dan 
+`true`, sehingga hanya blok program di kondisi kedua saja yang akan 
+dijalankan.
+
+Kondisi ketiga menggunakan pengkondisian berdasarkan inputan dari 
+user.
+
+Jika inputan lebih dari 80, maka akan muncul output "A".
+Jika inputan lebih dari 70, maka akan muncul output "B".
+Jika inputan lebih dari 60, maka akan muncul output "C".
+Jika inputan lebih dari 30, maka akan muncul output "D".
+Jika inputan kurang dari 30, maka akan muncul output "Tidak 
+Lulus".
+
+### integers.js
+
+
